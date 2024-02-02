@@ -1,0 +1,5 @@
+line= input()
+r1,s= line.split()
+r1=int(r1)
+s=int(s)
+print(2*s-r1)
